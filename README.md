@@ -83,10 +83,10 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bk203esd&show_icons=true&locale=en&layout=compact&theme=default" alt="Top Languages"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bk203esd&layout=compact&theme=default&cache_seconds=60" alt="Top Languages"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bk203esd&layout=compact&theme=default&cache_seconds=60" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=bk203esd&show_icons=true&locale=en&theme=default" alt="GitHub Stats" />
     </td>
   </tr>
   <tr>
